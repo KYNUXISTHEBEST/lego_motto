@@ -1,0 +1,16 @@
+{
+  "name": "kyanbot",
+  "version": "1.0.0",
+  "description": "it is a bot that controls a motorcycle of lego",
+  "main": "Kyan_Bot.js",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "movehub": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kyan de sutter",
+  "license": "ISC"
+}
